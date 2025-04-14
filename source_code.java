@@ -5,8 +5,11 @@ public class LoginMain {
     public static void main(String[] args) {
         String Username;
         String Password;
-        Password = "admin";
-        Username = "admin";
+        Password = "nimda";
+        Username = "secret_password_12345_qwerty";
+	API_key = "q2wsedcfgt6t5rtg1zuwksd";
+	ssh_key = "ssh-rsa ert23efieej2foöeofwhjhh2oo3pfevödäsködknvo23";
+	algorithm = "AES-128";
         Scanner input1 = new Scanner(System.in);
         System.out.println("Enter Username : ");
         String username = input1.next();
