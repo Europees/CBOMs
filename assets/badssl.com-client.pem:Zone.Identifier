@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://badssl.com/download/
+HostUrl=https://badssl.com/certs/badssl.com-client.pem
